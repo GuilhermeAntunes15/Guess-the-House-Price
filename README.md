@@ -7,3 +7,6 @@ Required libs:
 * streamlit
 * plotly
 * sklearn
+<br>
+
+Command to run the code: streamlit run app.py
